@@ -9,7 +9,7 @@ def obtener_detalles_pedido():
     return url, seguidores
 
 def realizar_pedido(url, seguidores):
-    api_endpoint = "API DE TU PAGONA DE SEGUIDORES"  
+    api_endpoint = "API DE TU PAGINA DE SEGUIDORES"  
     api_key = "TU API KEY (NO LA COMPARTAS CON NADIE)"  
     service_id = 0000 #NUMERO DEL SERVICIO QUE QUIERES UTILIZAR  
 
